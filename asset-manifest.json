@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/thaitv21/react-gh-pages/static/css/main.5f361e03.chunk.css",
-    "main.js": "/thaitv21/react-gh-pages/static/js/main.23c3f981.chunk.js",
-    "main.js.map": "/thaitv21/react-gh-pages/static/js/main.23c3f981.chunk.js.map",
-    "runtime-main.js": "/thaitv21/react-gh-pages/static/js/runtime-main.d9f4d176.js",
-    "runtime-main.js.map": "/thaitv21/react-gh-pages/static/js/runtime-main.d9f4d176.js.map",
-    "static/js/2.c31347fc.chunk.js": "/thaitv21/react-gh-pages/static/js/2.c31347fc.chunk.js",
-    "static/js/2.c31347fc.chunk.js.map": "/thaitv21/react-gh-pages/static/js/2.c31347fc.chunk.js.map",
-    "index.html": "/thaitv21/react-gh-pages/index.html",
-    "precache-manifest.f6d84d0f1245ced7b20b15933b518f91.js": "/thaitv21/react-gh-pages/precache-manifest.f6d84d0f1245ced7b20b15933b518f91.js",
-    "service-worker.js": "/thaitv21/react-gh-pages/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/thaitv21/react-gh-pages/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.c31347fc.chunk.js.LICENSE.txt": "/thaitv21/react-gh-pages/static/js/2.c31347fc.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/thaitv21/react-gh-pages/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-gh-pages/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.376fa8d5.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.376fa8d5.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.ffb3cba1.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.ffb3cba1.js.map",
+    "static/js/2.c31347fc.chunk.js": "/react-gh-pages/static/js/2.c31347fc.chunk.js",
+    "static/js/2.c31347fc.chunk.js.map": "/react-gh-pages/static/js/2.c31347fc.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "precache-manifest.c43987e661d578c18a454b1ae78a08e1.js": "/react-gh-pages/precache-manifest.c43987e661d578c18a454b1ae78a08e1.js",
+    "service-worker.js": "/react-gh-pages/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-gh-pages/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c31347fc.chunk.js.LICENSE.txt": "/react-gh-pages/static/js/2.c31347fc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-gh-pages/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d9f4d176.js",
+    "static/js/runtime-main.ffb3cba1.js",
     "static/js/2.c31347fc.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.23c3f981.chunk.js"
+    "static/js/main.376fa8d5.chunk.js"
   ]
 }
