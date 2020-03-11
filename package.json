@@ -33,7 +33,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/thaitv21/react-gh-pages",
+  "homepage": "http://thaitv21.github.io/react-gh-pages",
   "devDependencies": {
     "gh-pages": "^2.2.0"
   }
